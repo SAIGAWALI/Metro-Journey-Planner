@@ -1,0 +1,21 @@
+From,To,Distance
+Ghatkopar~B,Asalpha~B,4.0
+Asalpha~B,Vidyanagar~B,3.0
+Vidyanagar~B,Marol Naka~B,3.0
+Marol Naka~B,Airport Road~B,2.0
+Airport Road~B,Western Express~B,2.0
+Western Express~B,Goregaon~B,5.0
+Goregaon~B,Malad~B,3.0
+Malad~B,Kandarpada~B,2.0
+Kandarpada~B,Dahisar~B,2.0
+Ghatkopar~Y,Sion~Y,5.0
+Sion~Y,Vidyanagar~Y,4.0
+Vidyanagar~Y,King's Circle~Y,3.0
+King's Circle~Y,Wadala~Y,2.0
+Wadala~Y,Sewri~Y,2.0
+Sewri~Y,Cotton Green~Y,1.0
+Cotton Green~Y,Byculla~Y,2.0
+Byculla~Y,Mumbai Central~Y,3.0
+Mumbai Central~Y,Churchgate~Y,4.0
+Ghatkopar~B,Ghatkopar~Y,0.2
+Vidyanagar~B,Vidyanagar~Y,0.2

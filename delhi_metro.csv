@@ -1,0 +1,23 @@
+From,To,Distance
+Noida Sector 62~B,Botanical Garden~B,8.0
+Botanical Garden~B,Yamuna Bank~B,10.0
+Yamuna Bank~B,Vaishali~B,8.0
+Yamuna Bank~B,Rajiv Chowk~B,6.0
+Rajiv Chowk~B,Moti Nagar~B,9.0
+Moti Nagar~B,Janak Puri West~B,7.0
+Janak Puri West~B,Dwarka Sector 21~B,6.0
+Dwarka Sector 21~B,Nangloi~B,4.0
+Nangloi~B,Rohini East~B,4.0
+Rohini East~B,Netaji Subhash Place~B,3.0
+Netaji Subhash Place~B,Punjabi Bagh West~B,2.0
+Punjabi Bagh West~B,Rajouri Garden~B,2.0
+Huda City Center~Y,Saket~Y,15.0
+Saket~Y,AIIMS~Y,6.0
+AIIMS~Y,Rajiv Chowk~Y,7.0
+Rajiv Chowk~Y,New Delhi~Y,1.0
+New Delhi~Y,Chandni Chowk~Y,2.0
+Chandni Chowk~Y,Vishwavidyalaya~Y,5.0
+Vishwavidyalaya~Y,Kashmere Gate~Y,3.0
+Kashmere Gate~Y,GTB Nagar~Y,2.0
+Rajiv Chowk~B,Rajiv Chowk~Y,0.2
+New Delhi~Y,New Delhi~O,0.2
